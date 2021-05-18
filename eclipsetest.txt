@@ -6,3 +6,5 @@ Now I'm adding a second line in eclipse
 Updating it in the "another branch attempt" branch
 
 This is in branch 3. It should not be anywhere else
+
+And another one in branch 3. What happens now?
