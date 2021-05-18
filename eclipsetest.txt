@@ -1,2 +1,5 @@
 This file was created with one line only
+add-second-line-txt-second-attempt
+Now I'm adding the third line in the local branch
 Now I'm adding a second line in eclipse
+main
