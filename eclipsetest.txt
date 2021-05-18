@@ -9,6 +9,5 @@ This is in branch 3. It should not be anywhere else
 
 And another one in branch 3. What happens now?
 
-Now I'm testing Branch 4 when branch 5 is also edited to see what happens
+What happens if i updated b4 after b5 was uploaded?
 
-NOw I'm testing Branch 5 when brahc 4 is edited
