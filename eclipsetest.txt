@@ -1,1 +1,2 @@
 This file was created with one line only
+Now I'm adding a second line in eclipse
